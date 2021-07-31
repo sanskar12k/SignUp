@@ -1,8 +1,8 @@
-#Above is my frontend and backend codes for SIGN UP page.
-#Below is link of my hosted website which I hosted with heroku 
-#https://signupwithmongodb.herokuapp.com/
+# Above is my frontend and backend codes for SIGN UP page.
+# Below is link of my hosted website which I hosted with heroku 
+# https://signupwithmongodb.herokuapp.com/
 
-#For database I had used Mongodb
+# For database I had used Mongodb
 P.S. - It may take 3-4 seconds to pop up alert message after clicking sign up button
 
 
